@@ -11,7 +11,7 @@ $ docker pull lennihein/roptool
 ```
 Or build from source.
 ```
-$ docker build --rm -f Dockerfile -t lennihein/roptool:latest .
+$ docker build --rm -f Dockerfile -t lennihein/roptool .
 ```
 ### 2: Run as...
 
